@@ -46,7 +46,7 @@
 
 * 💼 LinkedIn: https://www.linkedin.com/in/sachiin-prajapatii
 * 📧 Email: sachiinprajapatii@gmail.com
-* 🌍 Portfolio: https://www.linkedin.com/in/sachiin-prajapatii
+* 🌍 Portfolio: https://portfolio-sachin-tys.vercel.app/
 
 ---
 
