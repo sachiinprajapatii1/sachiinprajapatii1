@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-🎓 BCA Graduated in **2024**
-💼 Contributing as **Frontend Developer at ConsultIT**
-🌱 Currently learning **Node.js, MongoDB, AI, Full Stack Development**
-⚡ Love building clean UI, real-world apps, and solving coding problems
-🎯 Goal: Grow as a professional **Software Engineer** while building impactful products
+💼 Currently working as a **Frontend Developer at ConsultIT**, where I contribute to building responsive, modern, and user-friendly web applications using **Node.js, MongoDB, and Tailwind CSS**. I have hands-on experience delivering real-world projects with a strong focus on clean UI design, performance optimization, and efficient development practices.
+
+🎓 I have completed my **Bachelor’s degree in Computer Software Engineering**, which helped me build a solid technical foundation and practical understanding of modern software development.
+
+🚀 I am passionate about continuous learning, problem-solving, and creating scalable digital solutions that improve user experience and drive business growth. My goal is to keep growing as a software engineer while building impactful and innovative products.
 
 ---
 
