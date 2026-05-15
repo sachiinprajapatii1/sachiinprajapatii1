@@ -8,15 +8,15 @@
 
 ## 🚀 About Me
 
-💼 Currently working as a **Frontend Developer at ConsultIT**, contributing to responsive, modern, and user-friendly web applications using **Node.js, MongoDB, React, and Tailwind CSS**.
+💼 Currently working as a **Frontend Developer at ConsultIT**, contributing to responsive, modern, and user-friendly web applications using **React, Node.js, MongoDB, and Tailwind CSS**.
 
-🎓 Completed **Bachelor’s degree in Computer Software Engineering** with a strong foundation in modern software development.
+🎓 Completed **Bachelor’s degree in Computer Software Engineering** with a strong foundation in software engineering and real-world development.
 
-🚀 Passionate about building scalable digital products, improving user experience, and continuously learning new technologies.
+🚀 Passionate about building scalable products, solving real-world problems, and continuously learning modern technologies.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -64,7 +64,51 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sachiinprajapatii1&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachiinprajapatii1&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🔥 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sachiinprajapatii1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+# 🎯 Current Goals
+
+✅ Master Full Stack Development  
+✅ Build SaaS Projects  
+✅ Improve DSA & System Design  
+✅ Contribute to Open Source  
+✅ Become a Software Engineer  
+
+---
+
+# ⚡ Fun Facts
+
+- 🚀 Love building modern web apps
+- 🎨 Passionate about UI/UX Design
+- 💻 MERN Stack Developer
+- 🌱 Learning advanced backend architecture
+- ⚡ Fast learner and creative problem solver
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -84,7 +128,15 @@
 
 ---
 
-## ✨ Fun Quote
+# 🧠 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+# ✨ Fun Quote
 
 <p align="center">
 
