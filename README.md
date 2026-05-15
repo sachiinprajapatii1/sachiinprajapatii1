@@ -34,8 +34,10 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachiinprajapatii1&theme=tokyonight" />   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachiinprajapatii1&theme=tokyonight" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachiinprajapatii1&theme=tokyonight" />   
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <img src="https://streak-stats.demolab.com?user=sachiinprajapatii1&theme=tokyonight&hide_border=true" />
 
 ---
