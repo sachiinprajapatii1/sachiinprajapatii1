@@ -1,55 +1,93 @@
 # 💫 Sachin Kumar | Frontend Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Learner;Creative+Problem+Solver;Building+Cool+Projects" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;MERN+Stack+Learner;Creative+Problem+Solver;Building+Cool+Projects" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-💼 Currently working as a **Frontend Developer at ConsultIT**, where I contribute to building responsive, modern, and user-friendly web applications using **Node.js, MongoDB, and Tailwind CSS**. I have hands-on experience delivering real-world projects with a strong focus on clean UI design, performance optimization, and efficient development practices.
+💼 Currently working as a **Frontend Developer at ConsultIT**, contributing to responsive, modern, and user-friendly web applications using **Node.js, MongoDB, React, and Tailwind CSS**.
 
-🎓 I have completed my **Bachelor’s degree in Computer Software Engineering**, which helped me build a solid technical foundation and practical understanding of modern software development.
+🎓 Completed **Bachelor’s degree in Computer Software Engineering** with a strong foundation in modern software development.
 
-🚀 I am passionate about continuous learning, problem-solving, and creating scalable digital solutions that improve user experience and drive business growth. My goal is to keep growing as a software engineer while building impactful and innovative products.
+🚀 Passionate about building scalable digital products, improving user experience, and continuously learning new technologies.
 
 ---
 
 ## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![ExpressJs](https://img.shields.io/badge/ExpressJs-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-181717?style=for-the-badge\&logo=github\&logoColor=white)
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachiinprajapatii1&theme=tokyonight" />   
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachiinprajapatii1&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachiinprajapatii1&theme=tokyonight" />
+
 <img src="https://streak-stats.demolab.com?user=sachiinprajapatii1&theme=tokyonight&hide_border=true" />
+
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/sachiin-prajapatii
-* 📧 Email: sachiinprajapatii@gmail.com
-* 🌍 Portfolio: https://portfolio-sachin-tys.vercel.app/
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sachiin-prajapatii">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:sachiinprajapatii@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://portfolio-sachin-tys.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
 ## ✨ Fun Quote
 
+<p align="center">
+
 > "Code. Learn. Build. Repeat. 🚀"
+
+</p>
