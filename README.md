@@ -34,11 +34,11 @@
 
 ## 📊 GitHub Stats
 
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachiinprajapatii1&show_icons=true&theme=radical&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api?username=sachiinprajapatii1&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachiinprajapatii1&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachiinprajapatii1&layout=compact&theme=tokyonight&hide_border=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachiinprajapatii1&layout=compact&theme=radical&cache_seconds=1800)
+<img src="https://streak-stats.demolab.com?user=sachiinprajapatii1&theme=tokyonight&hide_border=true" />
 
 ---
 
