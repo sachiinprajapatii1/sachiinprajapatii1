@@ -34,9 +34,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachiinprajapatii1&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachiinprajapatii1&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachiinprajapatii1&theme=tokyonight" />   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachiinprajapatii1&theme=tokyonight" />
 
 <img src="https://streak-stats.demolab.com?user=sachiinprajapatii1&theme=tokyonight&hide_border=true" />
 
