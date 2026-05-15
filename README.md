@@ -135,6 +135,13 @@
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sachiinprajapatii1/sachiinprajapatii1/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
 
 # ✨ Fun Quote
 
