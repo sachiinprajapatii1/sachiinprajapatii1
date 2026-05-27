@@ -333,4 +333,11 @@ If you find my projects useful or inspiring, a ⭐ on any repo goes a long way!
   [ ] Swap coding GIF with your own image if preferred
   [ ] Add your Buy Me A Coffee link
 ═══════════════════════════════════════════════════════════
--->
+---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sachiinprajapatii1/sachiinprajapatii1/output/snake.svg" alt="Snake animation" />
+</p>
+
+
