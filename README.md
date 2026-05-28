@@ -28,9 +28,9 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-00D9FF?style=for-the-badge&logoColor=white)](https://portfolio-sachin-tys.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sachiin-prajapatii)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](sachiinprajapatii@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachiinprajapatii1)
 
 <br/>
 
@@ -53,7 +53,7 @@
 const sachin = {
   role      : "Frontend Developer @ ConsultIT",
   location  : "India 🇮🇳",
-  education : "B.S. Computer Software Engineering",
+  education : "Bachelor of Computer Application",
 
   stack     : {
     frontend  : ["React", "JavaScript", "TypeScript",
@@ -64,9 +64,9 @@ const sachin = {
   },
 
   interests : ["MERN Stack", "AI Projects",
-               "Ethical Hacking", "Video Editing"],
+               , "Video Editing"],
 
-  currentlyLearning : "System Design & Cloud Architecture",
+  currentlyLearning : "Backend Using Typescript and Sql",
 
   goal      : "Become a world-class Software Engineer 🎯",
 
