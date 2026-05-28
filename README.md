@@ -99,19 +99,19 @@ const sachin = {
 
 <p align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=sachiinprajapatii1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=sachiinprajapatii1&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    height="180"
   />
-
+  
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachiinprajapatii1&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachiinprajapatii1&layout=compact&theme=tokyonight&cache_seconds=1800"
+    height="180"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=sachiinprajapatii1&theme=algolia&no-frame=true&row=1&column=7"
+    src="https://github-profile-trophy.vercel.app/?username=sachiinprajapatii1&theme=algolia&margin-w=15&margin-h=15"
   />
 </p>
 
