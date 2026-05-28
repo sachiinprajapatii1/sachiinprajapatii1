@@ -98,16 +98,13 @@ const sachin = {
 ## 📊 &nbsp;GitHub Statistics
 
 <div align="center">
-  
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=sachiinprajapatii1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF" 
-  />
-  
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachiinprajapatii1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" 
-  />
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=sachiinprajapatii1&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" 
+      alt="GitHub Trophies"
+    />
+  </a>
 
 </div>
 
