@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sachin&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Engineer&descSize=22&descAlignY=60&descColor=a0c4ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sachin&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer&descSize=22&descAlignY=60&descColor=a0c4ff" />
 
 </div>
 
