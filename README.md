@@ -18,26 +18,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=const+sachin+%3D+new+FrontendDeveloper()%3B;Building+premium+UIs+with+React+%26+Tailwind+%F0%9F%9A%80;MERN+Stack+%7C+AI+Projects+%7C+Ethical+Hacking;Turning+coffee+%E2%98%95+into+clean+code+since+day+one;Open+to+exciting+opportunities+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=const+sachin+%3D+new+FrontendDeveloper()%3B;Building+premium+UIs+with+React+%26+Tailwind+%F0%9F%9A%80;MERN+Stack+%7C+AI+Projects+%7C+Video+Editor;Turning+coffee+%E2%98%95+into+clean+code+since+day+one;Open+to+exciting+opportunities+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 </div>
 
-<!-- ────────────────────────  PROFILE BADGES  ─────────────────────────── -->
 
-<div align="center">
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-00D9FF?style=for-the-badge&logoColor=white)](https://portfolio-sachin-tys.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sachiin-prajapatii)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](sachiinprajapatii@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachiinprajapatii1)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sachiinprajapatii1&label=Profile+Views&color=00D9FF&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/sachiinprajapatii1?label=Followers&style=flat-square&color=00D9FF)
-
-</div>
 
 <br/>
 
