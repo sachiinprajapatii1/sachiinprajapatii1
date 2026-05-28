@@ -100,20 +100,14 @@ const sachin = {
 # Hi 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachiinprajapatii1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachiinprajapatii1&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachiinprajapatii1&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=sachiinprajapatii1&theme=tokyonight&hide_border=true" />
+
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sachiinprajapatii1&theme=tokyonight&hide_border=true" />
-</p>
-
-<br/>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sachiinprajapatii1&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=a0c4ff&dates=8b949e)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
