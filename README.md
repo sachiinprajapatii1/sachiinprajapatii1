@@ -259,17 +259,17 @@ const sachin = {
 | Platform | Link |
 |----------|------|
 | 🌐 **Portfolio** | [portfolio-sachin-tys.vercel.app](https://portfolio-sachin-tys.vercel.app/) |
-| 💼 **LinkedIn** | [Connect professionally](#) |
-| 📧 **Email** | [Drop me a message](#) |
-| 🐦 **Twitter / X** | [Say hello](#) |
+| 💼 **LinkedIn** | [Connect professionally](www.linkedin.com/in/sachiin-prajapatii) |
+| 📧 **Email** | [Drop me a message](sachiinprajapatii@gmail.com) |
+| 🐦 **Twitter / X** | [Say hello](https://x.com/tysisthehope) |
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sachiin-prajapatii)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-sachin-tys.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](sachiinprajapatii@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/tysisthehope)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachiinprajapatii1)
 
 </div>
 
@@ -283,7 +283,7 @@ const sachin = {
 
 If you find my projects useful or inspiring, a ⭐ on any repo goes a long way!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](#)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://x.com/tysisthehope)
 
 </div>
 
@@ -315,24 +315,9 @@ If you find my projects useful or inspiring, a ⭐ on any repo goes a long way!
 
 **⭐ Star my repos if you find them useful — it means a lot! ⭐**
 
-![Profile Views](https://komarev.com/ghpvc/?username=sachiinprajapatii1&color=00D9FF&style=flat-square&label=Total+Profile+Views)
-
-*Last updated: 2025 · Built with ❤️ by Sachin*
-
 </div>
 
-<!--
-═══════════════════════════════════════════════════════════
-  CUSTOMIZATION CHECKLIST
-  ───────────────────────────────────────────────────────
-  [ ] Replace "sachiinprajapatii1" with your GitHub username
-  [ ] Update portfolio URL in Portfolio badge
-  [ ] Replace "#" hrefs with your real LinkedIn / Email / Twitter
-  [ ] Set up snake.yml workflow (instructions in Snake section)
-  [ ] Edit typing lines in the Typing SVG URL (lines= param)
-  [ ] Swap coding GIF with your own image if preferred
-  [ ] Add your Buy Me A Coffee link
-═══════════════════════════════════════════════════════════
+
 ---
 ## 🐍 Contribution Snake
 
