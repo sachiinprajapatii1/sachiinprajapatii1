@@ -99,11 +99,13 @@ const sachin = {
 
 # Hi 👋
 
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachiinprajapatii1&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachiinprajapatii1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachiinprajapatii1&layout=compact&theme=tokyonight)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sachiinprajapatii1&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sachiinprajapatii1&theme=tokyonight&hide_border=true" />
+</p>
 
 <br/>
 
