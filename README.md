@@ -116,9 +116,8 @@ const sachin = {
 ## 🏆 &nbsp;GitHub Trophies
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=sachiinprajapatii1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" 
-    alt="GitHub Trophies"
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sachiinprajapatii1&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"
   />
 </p>
 
