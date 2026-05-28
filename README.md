@@ -97,13 +97,23 @@ const sachin = {
 
 ## 📊 &nbsp;GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=sachiinprajapatii1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachiinprajapatii1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachiinprajapatii1&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
 
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachiinprajapatii1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sachiinprajapatii1&theme=algolia&no-frame=true&row=1&column=7"
+  />
+</p>
 
 <br/>
 
