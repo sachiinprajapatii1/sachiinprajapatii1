@@ -1,262 +1,122 @@
-<!--
-╔══════════════════════════════════════════════════════════════════╗
-║         SACHIN — GitHub Profile README                          ║
-║         Premium Dark Cyber · Developer Edition                  ║
-║         To customize: search [YOUR_USERNAME] → sachiinprajapatii1 ║
-╚══════════════════════════════════════════════════════════════════╝
--->
-
-<!-- ═══════════════════════════  HERO HEADER  ═══════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sachin&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer&descSize=22&descAlignY=60&descColor=a0c4ff" />
+# Hi, I'm Sachin Kumar 👋
 
-</div>
+### MERN Stack Developer · React · Node.js · MongoDB
 
-<!-- ───────────────────────  ANIMATED TYPING  ─────────────────────────── -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachiin-prajapatii)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachiinprajapatii@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachiinprajapatii1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sachin-tys.vercel.app)
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=const+sachin+%3D+new+FrontendDeveloper()%3B;Building+premium+UIs+with+React+%26+Tailwind+%F0%9F%9A%80;MERN+Stack+%7C+AI+Projects+%7C+Video+Editor;Turning+coffee+%E2%98%95+into+clean+code+since+day+one;Open+to+exciting+opportunities+%F0%9F%8C%9F)](https://git.io/typing-svg)
-
-</div>
-
-
-
-<br/>
-
----
-
-<!-- ════════════════════════  ABOUT ME  ════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;About Me
-
-<img align="right" alt="coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-
-```typescript
-const sachin = {
-  role      : "Frontend Developer @ ConsultIT",
-  location  : "India 🇮🇳",
-  education : "Bachelor of Computer Application",
-
-  stack     : {
-    frontend  : ["React", "JavaScript", "TypeScript",
-                 "HTML5", "CSS3", "Tailwind CSS"],
-    backend   : ["Node.js", "Express.js", "REST APIs"],
-    database  : ["MongoDB"],
-    tools     : ["Git", "GitHub", "Postman", "VS Code"],
-  },
-
-  interests : ["MERN Stack", "AI Projects",
-               , "Video Editing"],
-
-  currentlyLearning : "Backend Using Typescript and Sql",
-
-  goal      : "Become a world-class Software Engineer 🎯",
-
-  funFact   : "I debug with console.log and I'm proud of it 😄",
-};
-```
-
-<br clear="right"/>
-
----
-
-<!-- ════════════════════════  TECH STACK  ═════════════════════════════ -->
-
-## 🧰 &nbsp;Tech Stack & Skills
-
-### 🎨 Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark&perline=6" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark&perline=6" />
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma&theme=dark&perline=6" />
-</p>
-
-### 📈 Currently Exploring
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash&theme=dark&perline=6" />
-</p>
-
----
-
-<!-- ════════════════════════  GITHUB STATS  ═══════════════════════════ -->
-
-## 📊 &nbsp;GitHub Statistics
-
-# Hi 👋
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachiinprajapatii1&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachiinprajapatii1&theme=tokyonight" />
-
-<img src="https://streak-stats.demolab.com?user=sachiinprajapatii1&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-<!-- ════════════════════════  TROPHIES  ═══════════════════════════════ -->
-
-## 🏆 &nbsp;GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachiinprajapatii1&theme=tokyonight"
-  />
-</p>
-
----
-
-<!-- ════════════════════════  ACTIVITY GRAPH  ═════════════════════════ -->
-
-## 📈 &nbsp;Contribution Activity
-
-<div align="center">
-
-[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sachiinprajapatii1&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true&custom_title=Sachin's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Profile views](https://komarev.com/ghpvc/?username=sachiinprajapatii1&color=0e75b6&style=flat)
 
 </div>
 
 ---
 
-<!-- ════════════════════════  WHAT I'M DOING  ════════════════════════ -->
+## 🧑‍💻 About Me
 
-## 🎯 &nbsp;What I'm Up To
+- 💼 **MERN Stack Developer Intern** at **ConsultIT**, Noida, Uttar Pradesh
+- 🚀 **2+ years** building real-world MERN projects across web and Android platforms
+- 🏗️ Shipped **3+ deployed products** — social platforms, business tools, and media systems
+- 🔗 Strong command of REST API design, JWT authentication, MongoDB, and modern frontend architecture
+- 📱 Experience packaging web apps for Android using Capacitor
+- 💡 I write code that ships to real users — not just side projects
 
-<table>
-<tr>
-<td width="50%">
+---
 
-### 🔨 Building
-- 🏗️ Production-grade React applications at ConsultIT
-- 🤖 Experimenting with AI-powered web tools
-- 🔐 Learning ethical hacking & web security
+## 🛠️ Tech Stack
 
-</td>
-<td width="50%">
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📚 Learning
-- ☁️ AWS & cloud deployment patterns
-- 📐 System design & scalable architecture
-- 🎬 Advanced video editing techniques
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### Database, Tools & Deployment
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
 
-### 🗺️ 2025 Roadmap
-| Goal | Status |
-|------|--------|
-| Master MERN Stack | 🔄 In Progress |
-| Build a SaaS product | 📋 Planned |
-| Contribute to OSS | 📋 Planned |
-| AWS certification | 📋 Planned |
+---
 
-</td>
-<td width="50%">
+## 🚀 Featured Projects
 
-### ⚡ Quick Facts
-- 💼 Working @ **ConsultIT**
-- 🌐 Portfolio live on **Vercel**
-- 🎯 Goal: **Top Software Engineer**
-- ☕ Fuel: **Coffee + curiosity**
-- 🌍 Based in: **India**
+### 🌐 [DevHub — Developer Social Media Platform](https://github.com/sachiinprajapatii1)
+> Full social networking platform for developers · *Live*
 
-</td>
-</tr>
-</table>
+**Stack:** MERN · JWT · GitHub API
 
-<!-- ════════════════════════  CONNECT  ════════════════════════════════ -->
+- 🔐 Role-based JWT authentication with real-time interactions
+- 📰 5+ core features — feeds, follows, notifications
+- 🔗 GitHub API integration to showcase pinned repos on each profile
+- ☁️ Deployed end-to-end across Vercel + Render
 
-## 🌐 &nbsp;Connect With Me
+---
+
+### 💼 [BizManager — Business Management Application](https://github.com/sachiinprajapatii1)
+> Cross-platform business tool for customers, payments & transactions · *Demo*
+
+**Stack:** MERN · Capacitor · MongoDB Atlas
+
+- 🧾 8+ REST API endpoints with Mongoose validation and secure auth
+- 📱 Packaged for Android using Capacitor with native-feel UI
+- 💰 Full end-to-end payment tracking and transaction management
+
+---
+
+### ⬇️ [Universal Media Downloader](https://github.com/sachiinprajapatii1)
+> Multi-platform media downloader with history tracking · *Live*
+
+**Stack:** Node.js · yt-dlp · gallery-dl · MongoDB
+
+- 🎥 Multi-format downloads from YouTube, Instagram, and more
+- 🗄️ MongoDB-backed session storage, download history & user management
+- 🚀 Resolved cloud IP-blocking on Vercel/Render; 100% uptime across both platforms
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<br/>
 
-| Platform | Link |
-|----------|------|
-| 🌐 **Portfolio** | [portfolio-sachin-tys.vercel.app](https://portfolio-sachin-tys.vercel.app/) |
-| 💼 **LinkedIn** | [Connect professionally](www.linkedin.com/in/sachiin-prajapatii) |
-| 📧 **Email** | [Drop me a message](sachiinprajapatii@gmail.com) |
-| 🐦 **Twitter / X** | [Say hello](https://x.com/tysisthehope) |
+![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachiinprajapatii1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=sachiinprajapatii1&theme=tokyonight&hide_border=true)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sachiin-prajapatii)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-sachin-tys.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](sachiinprajapatii@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/tysisthehope)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachiinprajapatii1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachiinprajapatii1&theme=tokyonight&hide_border=true&layout=compact&count_private=true)
 
 </div>
 
 ---
 
-<!-- ════════════════════════  SUPPORT  ════════════════════════════════ -->
+## 💼 What I'm Looking For
 
-## ☕ &nbsp;Support My Work
+> I'm actively seeking a **full-time MERN / Full-Stack Developer role** where I can architect scalable systems and take on greater ownership across the product lifecycle.
+> I bring real production experience across web and mobile — not just side projects — and I'm comfortable with the full stack from API design to deployment.
 
-<div align="center">
-
-If you find my projects useful or inspiring, a ⭐ on any repo goes a long way!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://x.com/tysisthehope)
-
-</div>
+📩 Reach me at **sachiinprajapatii@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/sachiin-prajapatii)
 
 ---
 
-<!-- ════════════════════════  DEV QUOTE  ══════════════════════════════ -->
-
-## 💭 &nbsp;Developer Motto
-
 <div align="center">
 
-> *"Any fool can write code that a computer can understand.*
-> *Good programmers write code that humans can understand."*
-> &nbsp;— **Martin Fowler**
-
-<br/>
-
-[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+*"Shipping code that real users depend on is the best teacher."*
 
 </div>
-
----
-
-<!-- ════════════════════════  FOOTER WAVE  ════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-
-**⭐ Star my repos if you find them useful — it means a lot! ⭐**
-
-</div>
-
-
----
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sachiinprajapatii1/sachiinprajapatii1/output/snake.svg" alt="Snake animation" />
-</p>
-
-
