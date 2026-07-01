@@ -58,7 +58,7 @@
 
 ## 🚀 Featured Projects
 
-### 🌐 [DevHub — Developer Social Media Platform]([https://github.com/sachiinprajapatii1/DevHub-Frontend])
+### 🌐 [DevHub — Developer Social Media Platform](https://github.com/sachiinprajapatii1/DevHub-Frontend)
 > Full social networking platform for developers · *Live*
 
 **Stack:** MERN · JWT · GitHub API
