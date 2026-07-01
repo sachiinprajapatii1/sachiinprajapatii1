@@ -70,7 +70,7 @@
 
 ---
 
-### 💼 [BizManager — Business Management Application](https://github.com/sachiinprajapatii1)
+### 💼 [BizManager — Business Management Application](https://github.com/sachiinprajapatii1/BizManager-Frontend)
 > Cross-platform business tool for customers, payments & transactions · *Demo*
 
 **Stack:** MERN · Capacitor · MongoDB Atlas
@@ -81,7 +81,7 @@
 
 ---
 
-### ⬇️ [Universal Media Downloader](https://github.com/sachiinprajapatii1)
+### ⬇️ [Universal Media Downloader](https://github.com/sachiinprajapatii1/Frontend-Downloader)
 > Multi-platform media downloader with history tracking · *Live*
 
 **Stack:** Node.js · yt-dlp · gallery-dl · MongoDB
