@@ -71,7 +71,7 @@
 ---
 
 ### 💼 [BizManager — Business Management Application](https://github.com/sachiinprajapatii1/BizManager-Frontend)
-> Cross-platform business tool for customers, payments & transactions · *Demo*
+> Cross-platform business tool for customers, payments & transactions · [*Demo*](https://drive.google.com/file/d/17hgSe6TulYqoW5pxS1IqqLBUCLgby76T/view?usp=sharing)
 
 **Stack:** MERN · Capacitor · MongoDB Atlas
 
@@ -82,7 +82,7 @@
 ---
 
 ### ⬇️ [Universal Media Downloader](https://github.com/sachiinprajapatii1/Frontend-Downloader)
-> Multi-platform media downloader with history tracking · *Live*
+> Multi-platform media downloader with history tracking · [*Live*](https://universal-media-downloader-tys.vercel.app)
 
 **Stack:** Node.js · yt-dlp · gallery-dl · MongoDB
 
