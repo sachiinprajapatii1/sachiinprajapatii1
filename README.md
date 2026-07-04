@@ -96,11 +96,7 @@
 
 <div align="center">
 
-![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachiinprajapatii1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sachiinprajapatii1&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachiinprajapatii1&theme=tokyonight&hide_border=true&layout=compact&count_private=true)
 
 </div>
 
