@@ -59,7 +59,7 @@
 ## 🚀 Featured Projects
 
 ### 🌐 [DevHub — Developer Social Media Platform](https://github.com/sachiinprajapatii1/DevHub-Frontend)
-> Full social networking platform for developers · [*Live*](dev-hub-frontend-tys.vercel.app)
+> Full social networking platform for developers · [*Live*](https://dev-hub-frontend-tys.vercel.app)
 
 **Stack:** MERN · JWT · GitHub API
 
